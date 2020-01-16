@@ -1,0 +1,26 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	border:20px solid #bdc3c7;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+	padding: 20px; 
+}
+
+h2{
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #3498db;
+	font-size: 20px;
+}
+
+.prvi{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+hr{
+	border-style: solid;
+	border-width: 1px;
+	color:lightgray;
+}
